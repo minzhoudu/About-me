@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Pavle
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js library for JavaScript
+- 👋 Hi, my name is Pavle, i am a web developer from Serbia.
+- 👀 I’m interested in web programming and mobile app development
+- 🌱 I’m currently learning ReactJS/Redux library for JavaScript
 - 📫 How to reach me: jovanovic.pavle.1998@gmali.com
 
 <!---
