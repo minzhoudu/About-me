@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Pavle, i am a web developer from Serbia.
 - 👀 I’m interested in web programming and mobile app development
-- 🌱 I’m currently learning ReactJS/Redux library for JavaScript and getting into back-end development with PHP/Drupal.
+- 🌱 I’m currently learning FrontEnd ReactJS/Redux library for JavaScript and NodeJS for BackEnd.
 - 📫 How to reach me: jovanovic.pavle.1998@gmali.com
 
 <!---
