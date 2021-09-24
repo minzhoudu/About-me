@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Pavle, i am a web developer from Serbia.
-- 👀 I’m interested in web design, and web programming.
+- 👀 I’m interested in web design, Front-end and Back-end programming.
 - 🌱 I’m currently upgrading my FrontEnd ReactJS/Redux and NodeJS knowledge.
 - 📫 How to reach me: jovanovix.p@gmali.com
 
